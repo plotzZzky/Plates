@@ -1,0 +1,9 @@
+# ignore archives
+*.log
+*_initial.py
+
+
+#ignore folders
+./*
+.idea/
+__pycache__/*
